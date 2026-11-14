@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtle circular halo behind the emblem -->
+    <path
+        android:fillColor="#1A38BDF8"
+        android:pathData="M54,10 A44,44 0 1,1 53.99,10 Z" />
+    <!-- Secondary white directional arrow pointing right-up -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,62 L46,62 L46,42 L58,42 L41,22 L24,42 L36,42 L36,52 L24,52 Z" />
+    <!-- Primary electric sky-blue directional arrow launching up-right -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M48,78 L70,78 C75.5,78 80,73.5 80,68 L80,46 L90,46 L73,26 L56,46 L66,46 L66,64 L48,64 Z" />
+</vector>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tap Away Arrows</string>
+    <string name="game_full_title">Tap Away Arrows - Puzzle &amp; Brain Challenge</string>
+    <string name="developer_attribution">Developed By Salved Afak Ahmed</string>
+    <string name="loading_puzzles">Preparing brain challenges…</string>
+    <string name="tap_to_start">Start Playing</string>
+    <string name="continue_level">Continue Level %1$d</string>
+    <string name="level_label">Level %1$d</string>
+    <string name="train_your_brain">Train Your Brain</string>
+    <string name="level_completed">Level Completed!</string>
+    <string name="next_level">Next Level</string>
+    <string name="main_menu">Main</string>
+    <string name="retry_level">Retry Level</string>
+    <string name="out_of_hearts">Out of Hearts!</string>
+    <string name="out_of_hearts_desc">Every blocked arrow costs a heart. Take a breath and try the board again!</string>
+    <string name="settings_title">Settings</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="haptic_feedback">Vibration Feedback</string>
+    <string name="show_grid_dots">Grid Dot Guides</string>
+    <string name="dark_theme">Dark Mode</string>
+    <string name="hint_action">Hint</string>
+    <string name="recenter_action">Recenter</string>
+    <string name="restart_action">Restart</string>
+    <string name="undo_action">Undo</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_normal">Normal</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_expert">Expert</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_hint">Use hint</string>
+    <string name="cd_grid_toggle">Toggle grid guides</string>
+    <string name="cd_recenter">Recenter puzzle board</string>
+    <string name="cd_restart">Restart level</string>
+    <string name="cd_heart_full">Remaining life</string>
+    <string name="cd_heart_empty">Lost life</string>
+</resources>
